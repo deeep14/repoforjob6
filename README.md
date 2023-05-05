@@ -1,1 +1,1 @@
-This reporistory is for job 6.
+This repo is for job 6.
